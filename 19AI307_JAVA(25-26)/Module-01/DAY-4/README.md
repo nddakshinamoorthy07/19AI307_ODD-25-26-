@@ -28,8 +28,8 @@ To write a Java Program to Find the Average of Array Elements.
 ## PROGRAM:
  ```
 Program to implement a Array concept using Java
-Developed by: LAKSHMIDHAR N
-RegisterNumber: 212224230138
+Developed by: DAKSHINA MOORTHY N D
+RegisterNumber: 212224230049
 ```
 
 ## SOURCE CODE:
@@ -69,3 +69,4 @@ public class Main
 
 
 Thus, the Java Program to Find the Average of Array Elements has been executed Successfully.
+
