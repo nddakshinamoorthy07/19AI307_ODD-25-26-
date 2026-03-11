@@ -29,8 +29,8 @@ To Write a Java program to simulate this elevator logic for a given floor number
 ## PROGRAM:
  ```
 Program to implement a conditional statement using Java
-Developed by: LAKSHMIDHAR N
-RegisterNumber:  212224230138
+Developed by: DAKSHINA MOORTHY N D
+RegisterNumber:  212224230049
 ```
 
 ## SOURCE CODE:
@@ -76,3 +76,4 @@ public class Main
 
 
 Thus, thr Java program to simulate this elevator logic for a given floor number has been executed Successfully.
+
