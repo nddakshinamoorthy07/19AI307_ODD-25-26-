@@ -27,8 +27,8 @@ To write a Java program that reads the number of terms from the user and display
 ## PROGRAM:
  ```
 Program to implement a Looping Statement using Java
-Developed by: LAKSHMIDHAR N
-RegisterNumber: 212224230138
+Developed by: DAKSHINA MOORTHY N D
+RegisterNumber: 212224230049
 ```
 
 ## SOURCE CODE:
@@ -74,3 +74,4 @@ public class Main
 
 
 Thus, the Java program that reads the number of terms from the user and displays the Fibonacci series using a for loop has been executed successfully.
+
